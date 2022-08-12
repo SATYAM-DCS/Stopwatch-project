@@ -1,4 +1,4 @@
-// Styling body part with background color black
+/* Styling body part with background color black */
 body{
     color:whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
@@ -23,7 +23,7 @@ div{
     font-size: 2.5em;
 }
 
-// styling button with diffrent color and properties
+ /* styling button with diffrent color and properties */
 #start {
     margin: 20px auto;
     text-align: center;
